@@ -10,7 +10,7 @@
     excludeVcsIgnoredPaths: false
     telemetryConsent: "no"
   editor:
-    fontFamily: "Osaka-Mono"
+    fontFamily: "Source Han Code JP"
     fontSize: 13
     invisibles: {}
     scrollPastEnd: true
