@@ -1,0 +1,51 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "de6bd078-1607-4c63-be3b-1c1128665f97"
+    js:
+      indent_size: 2
+  core:
+    allowPendingPaneItems: false
+    closeEmptyWindows: false
+    excludeVcsIgnoredPaths: false
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "Osaka-Mono"
+    fontSize: 13
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "40d940fa-5943-beaa-819a-00a02868ccdc"
+  linter: {}
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+  "terminal-plus":
+    toggles:
+      autoClose: true
+  "todo-show":
+    ignoreThesePaths: [
+      "**/node_modules/"
+      "**/vendor/"
+      "**/bower_components/"
+      "**/hybrid/"
+    ]
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".css.source":
+  editor:
+    preferredLineLength: 100
+".diff.source":
+  editor:
+    preferredLineLength: 100
+".json.source":
+  editor:
+    preferredLineLength: 100
