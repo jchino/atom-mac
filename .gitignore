@@ -1,10 +1,12 @@
+# Directory
+.apm
+.node-gyp
 blob-store
 compile-cache
-dev
 packages
 recovery
 storage
-.apm
-.node-gyp
-.npm
+
+# File
+.apmrc
 projects.cson
