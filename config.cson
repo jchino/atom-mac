@@ -21,6 +21,8 @@
   "exception-reporting":
     userId: "40d940fa-5943-beaa-819a-00a02868ccdc"
   linter: {}
+  "linter-ui-default":
+    panelHeight: 69
   minimap:
     plugins:
       "highlight-selected": true
