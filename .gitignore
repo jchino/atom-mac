@@ -9,4 +9,5 @@ storage
 
 # File
 .apmrc
+github.cson
 projects.cson
