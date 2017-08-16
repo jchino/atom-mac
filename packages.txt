@@ -5,7 +5,7 @@ file-icons@2.1.10
 highlight-selected@0.13.1
 intentions@1.1.5
 linter@2.2.0
-linter-ui-default@1.6.4
+linter-ui-default@1.6.5
 maximize-panes@0.2.0
 minimap@4.29.6
 minimap-autohide@0.10.1
@@ -16,5 +16,5 @@ project-manager@3.3.5
 script@3.15.0
 svg-preview@0.11.0
 todo-show@1.11.0
-vim-mode-plus@0.96.2
+vim-mode-plus@0.97.2
 
