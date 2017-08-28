@@ -11,10 +11,10 @@ minimap@4.29.6
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.40.2
-platformio-ide-terminal@2.5.5
+platformio-ide-terminal@2.6.0
 project-manager@3.3.5
 script@3.15.0
 svg-preview@0.11.0
 todo-show@2.0.0
-vim-mode-plus@0.98.0
+vim-mode-plus@1.0.0
 
