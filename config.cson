@@ -5,7 +5,6 @@
     js:
       indent_size: 2
   core:
-    allowPendingPaneItems: false
     excludeVcsIgnoredPaths: false
     telemetryConsent: "no"
   editor:
@@ -37,7 +36,8 @@
       "**/bower_components/"
       "**/hybrid/"
     ]
-  "tree-view": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".css.source":
