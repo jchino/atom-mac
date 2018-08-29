@@ -20,6 +20,8 @@
   linter: {}
   "linter-ui-default":
     panelHeight: 69
+  "markdown-preview":
+    useGitHubStyle: true
   minimap:
     plugins:
       "highlight-selected": true
@@ -36,8 +38,7 @@
       "**/bower_components/"
       "**/hybrid/"
     ]
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".css.source":
