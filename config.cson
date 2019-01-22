@@ -5,6 +5,9 @@
     js:
       indent_size: 2
   core:
+    disabledPackages: [
+      "spell-check"
+    ]
     excludeVcsIgnoredPaths: false
     telemetryConsent: "no"
   editor:
