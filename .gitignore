@@ -9,5 +9,6 @@ storage
 
 # File
 .apmrc
+.atom-socket-secret-*
 github.cson
 projects.cson
