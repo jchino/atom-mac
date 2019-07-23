@@ -9,6 +9,7 @@
       "spell-check"
     ]
     excludeVcsIgnoredPaths: false
+    projectHome: "/Users/jchino/Works"
     telemetryConsent: "no"
   editor:
     fontFamily: "Source Han Code JP"
