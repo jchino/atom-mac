@@ -13,7 +13,7 @@ minimap@4.29.9
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.40.2
-platformio-ide-terminal@2.9.1
+platformio-ide-terminal@2.9.3
 project-manager@3.3.7
 script@3.18.1
 svg-preview@0.14.0

@@ -32,6 +32,10 @@
       "highlight-selectedDecorationsZIndex": 0
       "minimap-autohide": true
       "minimap-autohideDecorationsZIndex": 0
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#0000ff"
   "terminal-plus":
     toggles:
       autoClose: true
