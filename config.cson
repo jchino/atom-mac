@@ -37,6 +37,8 @@
     ansiColors:
       normal:
         blue: "#0000ff"
+    toggles:
+      autoClose: true
   "terminal-plus":
     toggles:
       autoClose: true
