@@ -12,7 +12,7 @@
     projectHome: "/Users/jchino/Works"
     telemetryConsent: "no"
   editor:
-    fontFamily: "Source Han Code JP"
+    fontFamily: "\"Source Han Code JP\""
     invisibles: {}
     scrollPastEnd: true
     showIndentGuide: true
